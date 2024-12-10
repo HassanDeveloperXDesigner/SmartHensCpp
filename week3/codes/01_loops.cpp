@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    // ---------- while loop --------------
     // syntax
     // while (/* condition */)
     // {
@@ -15,18 +16,30 @@ int main(){
     //     cout<<"Enter number2: ";
     //     cin>>no2;
     // }
-    // cout<<"Program terminated";
+    // cout<<"While loop completed";
 
+    // ---------- for loop --------------
+    // syntax
+    // for (int i = 0; i < count; i++)
+    // {
+    //     /* code */
+    // }
+    
     // for (int i = 0; i < 5; i= i+1)/*i++*/
     // {
     //     cout<<"I love smarthens\n";
     // }
-    // cout<<"Program terminated";
+    // cout<<"for loop completed";
+    
+    
+    // --------for using while-------
     int number = 4;
     while (number >= 0){
         number = number -1;
         cout << number << endl;
     }
+
+
 
     
     return 0;
