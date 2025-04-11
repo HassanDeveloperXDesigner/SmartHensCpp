@@ -1,0 +1,4 @@
+ALi,ali@gmail.com,123
+usman,usman@gmail.com,456
+hassan,hassan@gmail.com,123
+umer,umer@gmail.com,pass
